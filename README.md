@@ -1,5 +1,5 @@
 # ShopProject
-This is a shop project using Object-Oriented programming, Database, Text files, interfaces and data structures.
+This is a shop project made in Visual Studio using C# and SQL Database. It is an Object-Oriented programming project also containing text files, interfaces and data structures.
 This project is divided into 4 parts:
   1) The shop part where the user chooses what car he would like to buy. All the data is stored in the database.
   2) A small brick breaker game.
